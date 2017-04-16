@@ -1,5 +1,5 @@
 module FreeBSDPorts
 
-# package code goes here
+include("./bindep.jl");
 
 end # module
